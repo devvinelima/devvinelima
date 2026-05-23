@@ -21,6 +21,10 @@ Passionate about building modern, responsive and scalable web applications with 
 
 <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,html,css" />
 
+### Backend / Logic
+
+<img src="https://skillicons.dev/icons?i=mysql,graphql" />
+
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
@@ -30,26 +34,6 @@ Passionate about building modern, responsive and scalable web applications with 
 <img src="https://skillicons.dev/icons?i=react,python" />
 
 ## </div>
-
-<table>
-<tr>
-<td align="center" width="65%">
-
-<img src="https://metrics.lecoq.io/devvinelima?template=classic&config.timezone=America/Sao_Paulo&config.display=large&config.padding=10&include=languages,contributions,commits,activity&languages.limit=8&languages.colors=github&contributions.days=90&commits.authoring=author&activity.days=90" alt="GitHub Metrics" />
-
-</td>
-<td  width="35%">
-<h2 align="center">🚀 About Me </h2>
-
-- 💻 Front-End Developer focused on modern web applications
-- ⚡ Specialized in **Vue.js, Nuxt.js, TypeScript and REST APIs**
-- 📚 Currently learning **Testing, React, Python and AI**
-- 🎯 Focused on performance, scalability and user experience
-- 🌎 Open to new projects and collaborations
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -75,6 +59,26 @@ B2B e-commerce platform focused on wholesale sales of stationery and haberdasher
 **Tech:** `React` `TypeScript` `Vite` `Tailwind CSS`
 
 ---
+
+<table>
+<tr>
+<td align="center" width="65%">
+
+<img src="https://metrics.lecoq.io/devvinelima?template=classic&config.timezone=America/Sao_Paulo&config.display=large&config.padding=10&include=languages,contributions,commits,activity&languages.limit=8&languages.colors=github&contributions.days=90&commits.authoring=author&activity.days=90" alt="GitHub Metrics" />
+
+</td>
+<td  width="35%">
+<h2 align="center">🚀 About Me </h2>
+
+- 💻 Front-End Developer focused on modern web applications
+- ⚡ Specialized in **Vue.js, Nuxt.js, TypeScript and REST APIs**
+- 📚 Currently learning **Testing, React, Python and AI**
+- 🎯 Focused on performance, scalability and user experience
+- 🌎 Open to new projects and collaborations
+
+</td>
+</tr>
+</table>
 
 ## 🌎 Connect With Me
 
