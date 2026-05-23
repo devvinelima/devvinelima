@@ -13,30 +13,33 @@ Passionate about building modern, responsive and scalable web applications with 
 </div>
 
 ---
-
 <div align="center">
-## 🛠 Tech Stack
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,html,css" />
-
-### Backend / Logic
-
-<img src="https://skillicons.dev/icons?i=mysql,graphql" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-
-### Currently Learning
-
-<img src="https://skillicons.dev/icons?i=react,python" />
-
+<h2> 🛠 Tech Stack</h2>
 </div>
 
----
+<table align="center">
+  <td align="center" width="50%">
 
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=vue,vite,nuxt,ts,js,tailwind,html,css,bootstrap" />
+
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
+  </td>
+  <td align="center" width="50%">
+
+**Backend / Logic**  
+<img src="https://skillicons.dev/icons?i=mysql,graphql" />
+
+**Currently Learning**  
+<img src="https://skillicons.dev/icons?i=react,python,nodejs" />
+
+  </td>
+</tr>
+</table>
+
+---
 ## 🚀 Featured Projects
 
 ### 🌟 [Bravva Glow](https://bravvaglow.com.br/)
