@@ -14,14 +14,6 @@ Passionate about building modern, responsive and scalable web applications with 
 
 ---
 
-## 📈 My GitHub Metrics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/devvinelima?template=classic&config.timezone=America/Sao_Paulo&config.display=large&config.padding=10&include=languages,contributions,commits,activity&languages.limit=8&languages.colors=github&contributions.days=90&commits.authoring=author&activity.days=90" alt="GitHub Metrics" />
-</div>
-
----
-
 ## 🚀 About Me
 
 - 💻 Front-End Developer focused on modern web applications
@@ -32,9 +24,18 @@ Passionate about building modern, responsive and scalable web applications with 
 
 ---
 
-## 🛠 Tech Stack
+<table>
+<tr>
+<td align="center" width="50%">
 
-<div align="center">
+## 📈 My GitHub Metrics
+
+<img src="https://metrics.lecoq.io/devvinelima?template=classic&config.timezone=America/Sao_Paulo&config.display=large&config.padding=10&include=languages,contributions,commits,activity&languages.limit=8&languages.colors=github&contributions.days=90&commits.authoring=author&activity.days=90" alt="GitHub Metrics" />
+
+</td>
+<td align="center" width="50%">
+
+## 🛠 Tech Stack
 
 ### Frontend
 
@@ -48,7 +49,35 @@ Passionate about building modern, responsive and scalable web applications with 
 
 <img src="https://skillicons.dev/icons?i=react,python" />
 
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devvinelima&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvinelima&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=devvinelima&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devvinelima/devvinelima/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
