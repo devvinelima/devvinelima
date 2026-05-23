@@ -52,14 +52,6 @@ Passionate about building modern, responsive and scalable web applications with 
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devvinelima/devvinelima/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🌟 [Bravva Glow](https://bravvaglow.com.br/)
