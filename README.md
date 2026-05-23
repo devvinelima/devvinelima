@@ -8,8 +8,16 @@
 Passionate about building modern, responsive and scalable web applications with clean code, performance and great user experiences.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Front-End+Developer;Vue.js+%7C+Nuxt.js+%7C+TypeScript;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Front-End+Developer;Vue.js+%7C+Nuxt.js;TypeScript+Developer" alt="Typing animation" />
 
+</div>
+
+---
+
+## 📈 My GitHub Metrics
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/devvinelima?template=classic&config.timezone=America/Sao_Paulo" alt="GitHub Metrics" />
 </div>
 
 ---
@@ -127,7 +135,7 @@ B2B e-commerce platform focused on wholesale sales of stationery and haberdasher
 
 <div align="center">
 
-### ✨ “Code, performance and user experience in harmony.”
+### ✨ "Code, performance and user experience in harmony."
 
 ![](https://komarev.com/ghpvc/?username=devvinelima&color=blue&style=for-the-badge)
 
