@@ -14,27 +14,6 @@ Passionate about building modern, responsive and scalable web applications with 
 
 ---
 
-## 🚀 About Me
-
-- 💻 Front-End Developer focused on modern web applications
-- ⚡ Specialized in **Vue.js, Nuxt.js, TypeScript and REST APIs**
-- 📚 Currently learning **Testing, React, Python and AI**
-- 🎯 Focused on performance, scalability and user experience
-- 🌎 Open to new projects and collaborations
-
----
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-## 📈 My GitHub Metrics
-
-<img src="https://metrics.lecoq.io/devvinelima?template=classic&config.timezone=America/Sao_Paulo&config.display=large&config.padding=10&include=languages,contributions,commits,activity&languages.limit=8&languages.colors=github&contributions.days=90&commits.authoring=author&activity.days=90" alt="GitHub Metrics" />
-
-</td>
-<td align="center" width="50%">
-
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -48,6 +27,27 @@ Passionate about building modern, responsive and scalable web applications with 
 ### Currently Learning
 
 <img src="https://skillicons.dev/icons?i=react,python" />
+
+
+---
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+## 📈 My GitHub Metrics
+
+<img src="https://metrics.lecoq.io/devvinelima?template=classic&config.timezone=America/Sao_Paulo&config.display=large&config.padding=10&include=languages,contributions,commits,activity&languages.limit=8&languages.colors=github&contributions.days=90&commits.authoring=author&activity.days=90" alt="GitHub Metrics" />
+
+</td>
+<td align="center" width="50%">
+## 🚀 About Me
+
+- 💻 Front-End Developer focused on modern web applications
+- ⚡ Specialized in **Vue.js, Nuxt.js, TypeScript and REST APIs**
+- 📚 Currently learning **Testing, React, Python and AI**
+- 🎯 Focused on performance, scalability and user experience
+- 🌎 Open to new projects and collaborations
 
 </td>
 </tr>
