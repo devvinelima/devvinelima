@@ -33,7 +33,7 @@ Passionate about building modern, responsive and scalable web applications with 
 
 <img src="https://skillicons.dev/icons?i=react,python" />
 
-## </div>
+</div>
 
 ---
 
