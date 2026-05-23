@@ -17,7 +17,7 @@ Passionate about building modern, responsive and scalable web applications with 
 ## 📈 My GitHub Metrics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/devvinelima?template=classic&config.timezone=America/Sao_Paulo" alt="GitHub Metrics" />
+  <img src="https://metrics.lecoq.io/devvinelima?template=classic&config.timezone=America/Sao_Paulo&config.display=large&config.padding=10&include=languages,contributions,commits,activity&languages.limit=8&languages.colors=github&contributions.days=90&commits.authoring=author&activity.days=90" alt="GitHub Metrics" />
 </div>
 
 ---
