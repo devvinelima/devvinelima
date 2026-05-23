@@ -14,6 +14,7 @@ Passionate about building modern, responsive and scalable web applications with 
 
 ---
 
+<div align="center">
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -28,20 +29,17 @@ Passionate about building modern, responsive and scalable web applications with 
 
 <img src="https://skillicons.dev/icons?i=react,python" />
 
-
----
+## </div>
 
 <table>
 <tr>
-<td align="center" width="50%">
-
-## 📈 My GitHub Metrics
+<td align="center" width="65%">
 
 <img src="https://metrics.lecoq.io/devvinelima?template=classic&config.timezone=America/Sao_Paulo&config.display=large&config.padding=10&include=languages,contributions,commits,activity&languages.limit=8&languages.colors=github&contributions.days=90&commits.authoring=author&activity.days=90" alt="GitHub Metrics" />
 
 </td>
-<td align="center" width="50%">
-## 🚀 About Me
+<td  width="35%">
+<h2 align="center">🚀 About Me </h2>
 
 - 💻 Front-End Developer focused on modern web applications
 - ⚡ Specialized in **Vue.js, Nuxt.js, TypeScript and REST APIs**
@@ -52,32 +50,6 @@ Passionate about building modern, responsive and scalable web applications with 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devvinelima&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvinelima&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=devvinelima&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devvinelima/devvinelima/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
