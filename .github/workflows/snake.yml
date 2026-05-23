@@ -8,11 +8,14 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Generate snake animation
         uses: Platane/snk@master
@@ -21,20 +24,15 @@ jobs:
           svg_out_path: dist/snake.svg
           dark_mode: true
 
-      - name: Push snake.svg to output branch
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist/snake.svg
-
       - name: Checkout output branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: output
           path: output_dir
 
       - name: Copy snake.svg to output branch
         run: |
+          mkdir -p output_dir
           cp dist/snake.svg output_dir/snake.svg
 
       - name: Commit and push to output branch
@@ -43,5 +41,5 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add snake.svg
-          git commit -m "Update snake animation" || echo "No changes to commit"
+          git commit -m "🐍 Update snake animation" || echo "No changes to commit"
           git push
