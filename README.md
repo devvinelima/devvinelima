@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Vinicius Lima
+#  Hi, I'm Vinicius Lima
 
 ### Front-End Developer | Vue.js • Nuxt.js • TypeScript • REST APIs
 
@@ -14,7 +14,7 @@ Passionate about building modern, responsive and scalable web applications with 
 
 ---
 <div align="center">
-<h2> 🛠 Tech Stack</h2>
+<h2>  Tech Stack</h2>
 </div>
 
 <table align="center">
@@ -40,7 +40,7 @@ Passionate about building modern, responsive and scalable web applications with 
 </table>
 
 ---
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🌟 [Bravva Glow](https://bravvaglow.com.br/)
 
@@ -63,27 +63,20 @@ B2B e-commerce platform focused on wholesale sales of stationery and haberdasher
 
 ---
 
-<table>
-<tr>
-<td align="center" width="65%">
-
 <img src="https://metrics.lecoq.io/devvinelima?template=classic&config.timezone=America/Sao_Paulo&config.display=large&config.padding=10&include=languages,contributions,commits,activity&languages.limit=8&languages.colors=github&contributions.days=90&commits.authoring=author&activity.days=90" alt="GitHub Metrics" />
 
-</td>
-<td  width="35%">
-<h2 align="center">🚀 About Me </h2>
+---
 
-- 💻 Front-End Developer focused on modern web applications
-- ⚡ Specialized in **Vue.js, Nuxt.js, TypeScript and REST APIs**
-- 📚 Currently learning **Testing, React, Python and AI**
-- 🎯 Focused on performance, scalability and user experience
-- 🌎 Open to new projects and collaborations
+<h2 align="center">About Me </h2>
 
-</td>
-</tr>
-</table>
+-  Front-End Developer focused on modern web applications
+-  Specialized in **Vue.js, Nuxt.js, TypeScript and REST APIs**
+-  Currently learning **Testing, React, Python and AI**
+-  Focused on performance, scalability and user experience
+-  Open to new projects and collaborations
 
-## 🌎 Connect With Me
+
+<h2 align="center"> Connect With Me  </h2>
 
 <div align="center">
 
@@ -117,7 +110,7 @@ B2B e-commerce platform focused on wholesale sales of stationery and haberdasher
 
 <div align="center">
 
-### ✨ "Code, performance and user experience in harmony."
+### "Code, performance and user experience in harmony."
 
 ![](https://komarev.com/ghpvc/?username=devvinelima&color=blue&style=for-the-badge)
 
